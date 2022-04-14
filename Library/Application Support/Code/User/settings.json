@@ -1,0 +1,20 @@
+{
+  "explorer.confirmDelete": false,
+  "git.autofetch": true,
+  "editor.tabSize": 2,
+  "workbench.iconTheme": "material-icon-theme",
+  "editor.fontFamily": "Fira Code, Menlo, Monaco, 'Courier New', monospace",
+  "editor.fontLigatures": true,
+  "workbench.colorTheme": "THL",
+  "diffEditor.ignoreTrimWhitespace": false,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "prettier.resolveGlobalModules": true,
+  "prettier.prettierPath": "/usr/local/lib/node_modules/prettier",
+  "editor.formatOnSave": true,
+  "svg.preview.mode": "svg",
+  "timeline.excludeSources": ["timeline.localHistory"],
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true,
+    "source.organizeImports": false
+  }
+}
